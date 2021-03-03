@@ -1,0 +1,20 @@
+body[data-theme="light"] {
+    @import '../src/scss/light-slider.scss';
+ 
+    .slider-tab {
+       background-color: #D7CAAA;
+    }
+    .header-icon {
+        color: #e9d5a1;
+        opacity: 0.8;
+     }
+     header {
+        h1 {
+           color: #D7CAAA;
+        }
+     }
+     .title-color {
+        color: #e9d5a1 !important;
+        opacity: 0.8;
+     }
+}

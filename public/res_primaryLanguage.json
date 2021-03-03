@@ -1,0 +1,147 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Soy Gonzalo Rocca. soy un desarrollador de software☀️ y vivo en Argentina. Me describo como un desarrollador apasionado que ama el codigo y crear aplicaciones de todo tipo 💜, parte de mi trabajo, me gusta crear y contribuir a proyectos. Eso me ayuda a aprender un montón de cosas. En mi tiempo libre puedes encontrarme jugando games, con amigos 🏋️‍♂️, escuchando musica, o en reuniones y conferencias tecnológicas por zoom",
+      "section_name": {
+        "about": "Sobre mi",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Data24",
+        "startDate": "2020",
+        "description": "Se brinda asesoramiento en ciber-seguridad, y se hace un analisis pentesting en el sitio como asi en los dispositivos involucrados y el personal",
+        "images": [
+          "images/portfolio/data24/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-express-original",
+            "name": "express"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "MDQSERVERS",
+        "startDate": "2019",
+        "description": "MDQserver es una comunidad y empresa en el ambito de los esports, actualmente posicionada como la comunidad de esports en csgo mas grande de argentina",
+        "images": [
+          "images/portfolio/mdqservers/p1.png",
+          "images/portfolio/mdqservers/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          }
+        ]
+      },
+      {
+        "title": "FitnessMoment",
+        "startDate": "2021",
+        "description": "FitnessMoment es una plataforma de streaming en vivo, en la cual el suscriptor puede entrenar rutinas, todo esto gracias a las clases en vivo por profesionales",
+        "images": [
+          "images/portfolio/fitness/p1.png",
+          "images/portfolio/fitness/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Lareta",
+        "startDate": "2019",
+        "description": "LaReta aplicacion la cual permite buscar equipos en determinadas zonas de mexico para jugar al futbol de manera rapida.",
+        "images": [
+          "images/portfolio/lareta/p1.png",
+          "images/portfolio/lareta/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freelancer",
+        "title": "Software Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Javascript 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "NodeJs",
+          ".NET Core",
+          "SignalR",
+          "Nodejs",
+          "ReactJs",
+          "Vuejs"
+        ]
+      },
+      {
+        "company": "Pixart",
+        "title": "Software engineer",
+        "years": "01.2018 - presente",
+        "mainTech": [
+          ".Net 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          ".Net",
+          "PHP",
+          "JavaScript",
+          "Azure"
+        ]
+      }
+    ]
+  }
